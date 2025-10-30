@@ -1,0 +1,4 @@
+Hello, this is a sample file for Cryptix.
+It contains multiple lines of text.
+You can use it to test reading and processing files.
+Have fun experimenting!
