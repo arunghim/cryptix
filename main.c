@@ -1,7 +1,6 @@
+#include "headers.h"
 #include <stdio.h>
 #include <stdlib.h>
-
-void encrypt(FILE *in, FILE *out);
 
 int main(int argc, char *argv[]) {
     if (argc != 3) return 1;
